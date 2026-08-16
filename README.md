@@ -27,12 +27,6 @@ I am currently developing my AI skills through hands-on projects and **PIAIC Age
 
 An AI-focused project exploring intelligent assistance and automation for trading-related workflows.
 
-### 🔎 AI Job Search / Automation
-
-An AI-focused project designed to explore job-search automation and streamline related workflows.
-
----
-
 ## 🎓 AI Learning
 
 **PIAIC — Agentic AI**
