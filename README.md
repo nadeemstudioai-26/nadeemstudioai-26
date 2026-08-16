@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nadeem Uddin
 
-### 🤖 Aspiring AI Engineer | Python | AI/ML | Generative AI | Agentic AI
+### 🤖 AI Engineer | Python | AI/ML | Generative AI | Agentic AI
 
 I'm an aspiring **AI Engineer** focused on building practical solutions with **Python, Artificial Intelligence, Machine Learning, Generative AI, AI Agents, and Computer Vision**.
 
@@ -64,7 +64,7 @@ University of Karachi — 2009
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: Add your LinkedIn profile
+* 💼 LinkedIn: [Nadeem Uddin](https://www.linkedin.com/in/nadeem-uddin-1b0651247/)
 * 🐙 GitHub: [@nadeemstudioai-26](https://github.com/nadeemstudioai-26)
 
 ---
