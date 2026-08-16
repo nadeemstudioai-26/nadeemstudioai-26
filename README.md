@@ -2,7 +2,7 @@
 
 ### 🤖 AI Engineer | Python | AI/ML | Generative AI | Agentic AI
 
-I'm an aspiring **AI Engineer** focused on building practical solutions with **Python, Artificial Intelligence, Machine Learning, Generative AI, AI Agents, and Computer Vision**.
+I'm an **AI Engineer** focused on building practical solutions with **Python, Artificial Intelligence, Machine Learning, Generative AI, AI Agents, and Computer Vision**.
 
 I am currently developing my AI skills through hands-on projects and **PIAIC Agentic AI learning**, with a focus on practical AI automation and intelligent systems.
 
