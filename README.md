@@ -60,6 +60,7 @@ University of Karachi — 2009
 
 * 💼 LinkedIn: www.linkedin.com/in/nadeem-uddin-990047430
 * 🐙 GitHub: [@nadeemstudioai-26](https://github.com/nadeemstudioai-26)
+* 🌐 Portfolio: https://ai-portfolio-one-pink.vercel.app
 
 ---
 
