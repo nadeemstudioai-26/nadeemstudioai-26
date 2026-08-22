@@ -58,7 +58,7 @@ University of Karachi — 2009
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Nadeem Uddin](https://www.linkedin.com/in/nadeem-uddin-1b0651247/)
+* 💼 LinkedIn: www.linkedin.com/in/nadeem-uddin-990047430
 * 🐙 GitHub: [@nadeemstudioai-26](https://github.com/nadeemstudioai-26)
 
 ---
